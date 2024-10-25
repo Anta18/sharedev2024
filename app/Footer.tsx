@@ -69,9 +69,9 @@ const Footer = () => {
             <div className="mx-auto max-w-sm lg:max-w-none">
               <p className="mt-4 text-center text-gray-500 lg:text-left lg:text-lg dark:text-gray-400">
                 We are a student run organization nurturing{" "}
-                <div className="text-emerald-500 text-3xl font-bold">
+                <span className="text-emerald-500 lg:text-lg font-bold">
                   Finance, Consulting and Product Management
-                </div>{" "}
+                </span>{" "}
                 Get onboard and avail our services !
               </p>
 
